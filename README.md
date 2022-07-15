@@ -1,0 +1,2 @@
+# manav
+Proje 7
